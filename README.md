@@ -7,17 +7,21 @@ Origins:
 (key: + = buff//- = debuff)
 
 **Warden**
+
 +
 -
 
 **Glow Squid**
+
 +
 -
 
 **Axolotl**
+
 +
 -
 
 **Unicorn**
+
 +
 -
